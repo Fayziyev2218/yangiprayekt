@@ -1,0 +1,17 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  width: 1200px;
+  margin: 0 auto;
+}
+
+.navbar {
+  background: teal;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}/*# sourceMappingURL=main.css.map */
